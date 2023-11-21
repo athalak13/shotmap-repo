@@ -1,0 +1,25 @@
+﻿Name,name.1,isHome,shotType,situation,x,y,bodyPart,goalMouthLocation,xgoal,ygoal,xg,id,time,addedTime
+shotmap,Michael Obafemi,FALSE,miss,assisted,19.7,42.1,right-foot,left,0,60.3,0.03474059,2326358,90,10
+shotmap,Dara O'Shea,FALSE,miss,corner,4.6,40.1,other,close-high,0,50.9,0.031740263,2326167,86,
+shotmap,Leandro Trossard,TRUE,block,assisted,11.2,36.5,right-foot,low-centre,0,50.4,0.048276015,2326053,79,
+shotmap,Oleksandr Zinchenko,TRUE,goal,corner,13.1,46.4,left-foot,high-right,0,46.1,0.03724714,2325970,74,
+shotmap,Declan Rice,TRUE,miss,assisted,25.1,44.5,right-foot,close-right,0,42,0.032805163,2325861,67,
+shotmap,Luca Koleosho,FALSE,miss,assisted,24,23.1,right-foot,close-left,0,58.2,0.007894587,2325837,65,
+shotmap,William Saliba,TRUE,goal,corner,1.5,49.4,head,high-left,0,51.9,0.644268036,2325734,57,
+shotmap,Gabriel Martinelli,TRUE,save,fast-break,10,33.4,right-foot,low-left,0,52.4,0.12398874,2325722,57,
+shotmap,Josh Brownhill,FALSE,goal,regular,12.2,36.9,left-foot,low-left,0,53.1,0.065441333,2325686,54,
+shotmap,Gabriel Magalhães,TRUE,miss,corner,6.1,54.2,head,right,0,27.1,0.122601032,2325620,50,
+shotmap,Leandro Trossard,TRUE,goal,assisted,1.4,45.6,head,low-left,0,53.9,0.350074083,2325414,45,1
+shotmap,Bukayo Saka,TRUE,miss,assisted,8.1,53.8,head,left,0,59.3,0.078840233,2325422,45,1
+shotmap,Gabriel Magalhães,TRUE,block,assisted,27.2,44.7,left-foot,low-centre,0,48.5,0.026600014,2325406,45,
+shotmap,Bukayo Saka,TRUE,block,assisted,19.6,68.4,left-foot,low-centre,0,51.6,0.026841808,2325286,37,
+shotmap,Leandro Trossard,TRUE,save,assisted,16.1,36.5,left-foot,high-left,0,53.2,0.053299434,2325256,36,
+shotmap,Jay Rodriguez,FALSE,save,assisted,22.9,30.5,right-foot,low-right,0,45.5,0.042636827,2325187,32,
+shotmap,Jóhann Guðmundsson,FALSE,save,regular,13.6,37.1,left-foot,low-right,0,46.7,0.056643166,2325161,31,
+shotmap,Kai Havertz,TRUE,miss,corner,3.1,54.6,head,high-right,0,44,0.202678367,2325156,30,
+shotmap,Jay Rodriguez,FALSE,save,assisted,11.5,55.9,head,high-centre,0,50.3,0.02888569,2325131,28,
+shotmap,Kai Havertz,TRUE,miss,regular,11.5,57.5,right-foot,close-right,0,41.8,0.122961491,2325102,25,
+shotmap,Bukayo Saka,TRUE,save,regular,12.8,67,right-foot,high-right,0,47.1,0.022461623,2325037,20,
+shotmap,Takehiro Tomiyasu,TRUE,block,regular,18.5,68.2,left-foot,low-right,0,48.1,0.018406721,2325045,20,
+shotmap,Zeki Amdouni,FALSE,save,assisted,24.9,59,right-foot,low-right,0,46.9,0.048135035,2324883,8,
+shotmap,Gabriel Magalhães,TRUE,miss,corner,4.3,56.3,other,high,0,46.7,0.039947096,2324859,6,
